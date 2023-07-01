@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+}
+body {
+  background: #23d5ab;
+  font-size: 12px;
+  height: 100%;
+}
+
+.yaxis {
+  font-weight: bold;
+  font-size: 16px;
+  fill: rgb(9, 47, 38);
+}
+.xaxis {
+  font-weight: bold;
+  font-size: 16px;
+  fill: rgb(9, 47, 38);
+}
+
+.axis text {
+  font: 10px sans-serif;
+}
+
+#tooltip {
+  font: 18px sans-serif;
+  font-weight: bold;
+  color: black;
+}
